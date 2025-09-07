@@ -5,7 +5,7 @@ Nathália Mantovani | DEV
 Alexis Rondo | HOM 
 Vinicius Rodrigues de Oliveira | PRD
 
-## 📝 Descrição da Solução (Desenvolvimento de um app para Vans Escolares
+## 📝 Descrição da Solução (Desenvolvimento de um app para Vans Escolares)
 O aplicativo é voltado para empresas e/ou motoristas de vans escolares de todo o território brasileiro, sendo um checklist onde tanto o motorista/supervisor do veículo quanto os pais e/ou responsáveis terão acesso. Ambas as partes poderão guiar-se por meio de notificações, por exemplo, "O motorista está chegando, prepare-se para embarcar!", além de notificar ao motorista quando algum aluno não for utilizar de seus serviços, visando facilitar a mobilidade e recálculo da rota do mesmo. Para o recálculo da rota, o app teria a integração de um mapa direcional sendo possível realizar rotas melhores, seguras e mais eficientes para buscar e deixar os alunos colocados à sua responsabilidade.
 Com um checklist de recebimento de alunos pelo motorista e de entrega aos responsáveis, todo o processo fica registrado com hora e data, trazendo um melhor controle sobre a localização de cada aluno, e existindo uma maior prevenção a possíveis acidentes, como o esquecimento de crianças e/ou adolescentes dentro dos veículos e até mesmo dentro das escolas. Outros complementos ainda podem ser atribuídos como: Cada aluno ter uma espécie de carteira de identificação, contendo observações importantes sobre tipo sanguíneo, enfermidades, necessidades especiais, uso de medicações, dentre outros.
 
